@@ -12,7 +12,7 @@
  *  for the specific language governing permissions and limitations under the License.
  *
  * mods made (to bspranger's fork)  by inpier on 05/09/2017 to introduce lux reading. NOTE This only updates during a motion event as 
- * the device does not appear to except the configureReporting command for illuminance. 
+ * the device does not appear to acccept the configureReporting command for illuminance. 
  *
  * Based on original DH by Eric Maycock 2015
  * modified 29/12/2016 a4refillpad 
